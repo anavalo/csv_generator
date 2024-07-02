@@ -6,7 +6,7 @@ const generateAndExportCSV = (): void => {
     let csvContent = header;
 
     for (let i = 0; i < 10; i++) {
-        const externalId = '+' + faker.phone.number('549#########');
+        const externalId = '+' + faker.phone.number('54911########');
         const displayName = faker.name.firstName();
         const email = faker.internet.email(displayName.toLowerCase());
 
