@@ -1,3 +1,3 @@
 csv generator for broadcast
 
-npm start
+npm run start
