@@ -1,3 +1,4 @@
-csv generator for broadcast
+## csv generator for broadcast
 
+npm install
 npm run start
